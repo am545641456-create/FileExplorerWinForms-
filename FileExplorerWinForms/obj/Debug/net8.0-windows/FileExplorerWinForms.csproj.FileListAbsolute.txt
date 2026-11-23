@@ -1,0 +1,17 @@
+C:\Users\unknown\Documents\Default Project\FileExplorerWinForms\bin\Debug\net8.0-windows\FileExplorerWinForms.exe
+C:\Users\unknown\Documents\Default Project\FileExplorerWinForms\bin\Debug\net8.0-windows\FileExplorerWinForms.deps.json
+C:\Users\unknown\Documents\Default Project\FileExplorerWinForms\bin\Debug\net8.0-windows\FileExplorerWinForms.runtimeconfig.json
+C:\Users\unknown\Documents\Default Project\FileExplorerWinForms\bin\Debug\net8.0-windows\FileExplorerWinForms.dll
+C:\Users\unknown\Documents\Default Project\FileExplorerWinForms\bin\Debug\net8.0-windows\FileExplorerWinForms.pdb
+C:\Users\unknown\Documents\Default Project\FileExplorerWinForms\obj\Debug\net8.0-windows\FileExplorerWinForms.Form1.resources
+C:\Users\unknown\Documents\Default Project\FileExplorerWinForms\obj\Debug\net8.0-windows\FileExplorerWinForms.csproj.GenerateResource.cache
+C:\Users\unknown\Documents\Default Project\FileExplorerWinForms\obj\Debug\net8.0-windows\FileExplorerWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unknown\Documents\Default Project\FileExplorerWinForms\obj\Debug\net8.0-windows\FileExplorerWinForms.AssemblyInfoInputs.cache
+C:\Users\unknown\Documents\Default Project\FileExplorerWinForms\obj\Debug\net8.0-windows\FileExplorerWinForms.AssemblyInfo.cs
+C:\Users\unknown\Documents\Default Project\FileExplorerWinForms\obj\Debug\net8.0-windows\FileExplorerWinForms.csproj.CoreCompileInputs.cache
+C:\Users\unknown\Documents\Default Project\FileExplorerWinForms\obj\Debug\net8.0-windows\FileExplorerWinForms.dll
+C:\Users\unknown\Documents\Default Project\FileExplorerWinForms\obj\Debug\net8.0-windows\refint\FileExplorerWinForms.dll
+C:\Users\unknown\Documents\Default Project\FileExplorerWinForms\obj\Debug\net8.0-windows\FileExplorerWinForms.pdb
+C:\Users\unknown\Documents\Default Project\FileExplorerWinForms\obj\Debug\net8.0-windows\FileExplorerWinForms.genruntimeconfig.cache
+C:\Users\unknown\Documents\Default Project\FileExplorerWinForms\obj\Debug\net8.0-windows\ref\FileExplorerWinForms.dll
+C:\Users\unknown\Documents\Default Project\FileExplorerWinForms\obj\Debug\net8.0-windows\FileExpl.BF49372D.Up2Date
